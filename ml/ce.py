@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # Copyright (c) 2019, Konstantin Burlachenko (burlachenkok@gmail.com)
 
+# Notes about KL-divergence: https://sites.google.com/site/burlachenkok/articles/properties-of-kl-divergence
+
 import matplotlib.pyplot as plt
 import numpy as np
 import math, sys
